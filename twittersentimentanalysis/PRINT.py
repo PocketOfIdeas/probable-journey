@@ -1,0 +1,3 @@
+print('In the distance a tree wavered on the horizon, perhaps just a mirage giving notice to the desperation of the travelers. As the weary band of misfits aproached, the desert gave way to a mountainous land, strewn with wiry tres.,')
+print("The wary eyes of the wild cyotees scanned the travelers, as the travelers watched back fearfully. A light rain graced the land, and the travelers drank for the first time in days.")
+print("")
